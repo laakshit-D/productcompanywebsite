@@ -117,7 +117,7 @@ Publish the website in the given URL.
   </body>
 </html>
 ```
-##product.html
+## product.html
 ```
 <!DOCTYPE html>
 
@@ -331,8 +331,6 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
-
-![output](./images/homepage.jpg)
 ![output](./images/Screenshot_20230130_112215.png)
 ![output](./images/Screenshot_20230130_112235.png)
 ![output](./images/Screenshot_20230130_112258.png)
